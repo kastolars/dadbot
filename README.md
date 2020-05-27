@@ -3,7 +3,7 @@
 ## Installation
 Option 1: Run `npm install` at project root. 
 
-Option 2 (Docker): run `docker built -t dadbot:latest .` to build the image.
+Option 2 (Docker): run `docker build -t dadbot:latest .` to build the image.
 
 ## Usage
 Option 1: Run `npm start`.
